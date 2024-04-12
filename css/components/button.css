@@ -1,0 +1,17 @@
+.btn-green {
+  border: 1px solid white;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  margin-bottom: 128px;
+}
+
+.btn-green:hover {
+  opacity: 50%;
+  background-color: black;
+  border: 1px solid black;
+}
